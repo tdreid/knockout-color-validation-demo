@@ -21,6 +21,10 @@ namespace knockout_color_validation_demo
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js"));
+            bundles.Add(new ScriptBundle("~/bundles/knockout").Include(
+                    "~/Scripts/knockout-debug.js",
+                    "~/Scripts/site.js"
+                ));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
