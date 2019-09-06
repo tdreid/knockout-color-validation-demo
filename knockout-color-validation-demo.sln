@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knockout-color-validation-demo", "knockout-color-validation-demo\knockout-color-validation-demo.csproj", "{4748DD09-8228-4690-AB60-EF1A1141BBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4748DD09-8228-4690-AB60-EF1A1141BBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4748DD09-8228-4690-AB60-EF1A1141BBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4748DD09-8228-4690-AB60-EF1A1141BBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4748DD09-8228-4690-AB60-EF1A1141BBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33339951-D29E-4F97-BB88-58ADFFF15A71}
+	EndGlobalSection
+EndGlobal
