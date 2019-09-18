@@ -25,7 +25,7 @@ Visual Studio (2017 or later recommended.)
 Optionally [publish and deploy](https://docs.microsoft.com/en-us/visualstudio/deployment/quickstart-deploy-to-a-web-site?view=vs-2017) 
 to a web server.
 
-## Acknowledgement and Reference
+## Acknowledgment and Reference
 
 This work is inspired by and extends a Knockout datalist custom binding 
 advanced [on Stack Overflow](https://stackoverflow.com/questions/19865364/knockoutjs-linking-value-from-a-input-to-a-datalist-value) 
