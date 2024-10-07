@@ -7,12 +7,12 @@ __HTML `<datalist>` element__ and __[Knockout](https://knockoutjs.com/)__.
 
 ## Live Demo
 
-See this [JSFiddle](https://jsfiddle.net/tdreid/roq5eza6/embedded/#Result) 
+See this [JSFiddle](https://jsfiddle.net/tdreid/roq5eza6) 
 for a quick working example of the knockout binding.
 
 ## Installation
 
-The demo is a complete ASP.Net MVC site that 
+The full demo is a complete ASP.Net MVC site that 
 ___requires .Net Framework 4.7.2 or later___.
 
 1. Clone this repo
